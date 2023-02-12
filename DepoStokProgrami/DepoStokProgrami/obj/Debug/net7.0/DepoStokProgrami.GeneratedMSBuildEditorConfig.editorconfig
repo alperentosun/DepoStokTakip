@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DepoStokProgrami
+build_property.RootNamespace = DepoStokProgrami
+build_property.ProjectDir = C:\Users\alp_e\Desktop\BitirmeOdev\DepoStokProgrami\DepoStokProgrami\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\alp_e\Desktop\BitirmeOdev\DepoStokProgrami\DepoStokProgrami
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunKategoriler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkthdGVnb3JpbGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunKategoriler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkthdGVnb3JpbGVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunKategoriler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkthdGVnb3JpbGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunKategoriler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkthdGVnb3JpbGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunKategoriler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkthdGVnb3JpbGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/Urunler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/Urunler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/Urunler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/Urunler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/Urunler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunSatinAl/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blNhdGluQWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunSatinAl/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blNhdGluQWxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunSatinAl/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blNhdGluQWxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunSatinAl/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blNhdGluQWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunSatinAl/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blNhdGluQWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunSatis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blNhdGlzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunSatis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blNhdGlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunSatis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blNhdGlzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunSatis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blNhdGlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/UrunSatis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blNhdGlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alp_e/Desktop/BitirmeOdev/DepoStokProgrami/DepoStokProgrami/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0xpcnwhfbh

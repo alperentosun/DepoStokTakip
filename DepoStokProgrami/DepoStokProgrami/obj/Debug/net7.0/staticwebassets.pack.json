@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DepoStokProgrami.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DepoStokProgrami.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\Upload\\appletelefon230008001.jfif",
+      "PackagePath": "staticwebassets\\Upload\\appletelefon230008001.jfif"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\Upload\\bionluk235850219.jpg",
+      "PackagePath": "staticwebassets\\Upload\\bionluk235850219.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\Upload\\vestelpc232327724.jpg",
+      "PackagePath": "staticwebassets\\Upload\\vestelpc232327724.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\Upload\\vestelpc233844083.jpg",
+      "PackagePath": "staticwebassets\\Upload\\vestelpc233844083.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\css\\ajax-loader.html",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.html"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\css\\backend-plugin.min.css",
+      "PackagePath": "staticwebassets\\css\\backend-plugin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\css\\backende209.css",
+      "PackagePath": "staticwebassets\\css\\backende209.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\css\\fonts\\slick-2.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick-2.html"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\css\\fonts\\slick-3.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick-3.html"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\css\\fonts\\slick-4.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick-4.html"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\css\\fonts\\slick.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.html"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\css\\fonts\\slickd41d.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slickd41d.html"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\dark-loader.html",
+      "PackagePath": "staticwebassets\\images\\dark-loader.html"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\error\\02.png",
+      "PackagePath": "staticwebassets\\images\\error\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\error\\404.png",
+      "PackagePath": "staticwebassets\\images\\error\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\error\\500.png",
+      "PackagePath": "staticwebassets\\images\\error\\500.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\layouts\\side-bkg.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\side-bkg.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\login\\01.png",
+      "PackagePath": "staticwebassets\\images\\login\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\login\\mail.png",
+      "PackagePath": "staticwebassets\\images\\login\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\08.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\09.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\17.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\18.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\19.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\20.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\21.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\22.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\23.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\24.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\page-img\\profile-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\page-img\\profile-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\product\\01.png",
+      "PackagePath": "staticwebassets\\images\\product\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\product\\02.png",
+      "PackagePath": "staticwebassets\\images\\product\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\product\\03.png",
+      "PackagePath": "staticwebassets\\images\\product\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\product\\04.png",
+      "PackagePath": "staticwebassets\\images\\product\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\product\\05.png",
+      "PackagePath": "staticwebassets\\images\\product\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\product\\1.png",
+      "PackagePath": "staticwebassets\\images\\product\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\product\\2.png",
+      "PackagePath": "staticwebassets\\images\\product\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\product\\3.png",
+      "PackagePath": "staticwebassets\\images\\product\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\small\\flag-01.png",
+      "PackagePath": "staticwebassets\\images\\small\\flag-01.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\small\\flag-02.png",
+      "PackagePath": "staticwebassets\\images\\small\\flag-02.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\small\\flag-03.png",
+      "PackagePath": "staticwebassets\\images\\small\\flag-03.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\small\\flag-04.png",
+      "PackagePath": "staticwebassets\\images\\small\\flag-04.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\small\\flag-05.png",
+      "PackagePath": "staticwebassets\\images\\small\\flag-05.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\small\\flag-06.png",
+      "PackagePath": "staticwebassets\\images\\small\\flag-06.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\small\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\table\\product\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\table\\product\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\table\\product\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\table\\product\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\table\\product\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\table\\product\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\table\\product\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\table\\product\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\table\\product\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\table\\product\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\table\\product\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\table\\product\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\table\\product\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\table\\product\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\table\\product\\08.jpg",
+      "PackagePath": "staticwebassets\\images\\table\\product\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\table\\product\\09.jpg",
+      "PackagePath": "staticwebassets\\images\\table\\product\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\user\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\user\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\user\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\user\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\user\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\user\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\user\\1.png",
+      "PackagePath": "staticwebassets\\images\\user\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\images\\user\\i1.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\i1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\js\\backend-bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\backend-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\js\\chart-custom.js",
+      "PackagePath": "staticwebassets\\js\\chart-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\js\\customizer.js",
+      "PackagePath": "staticwebassets\\js\\customizer.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\js\\table-treeview.js",
+      "PackagePath": "staticwebassets\\js\\table-treeview.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\vendor\\@fortawesome\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\vendor\\@fortawesome\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\vendor\\line-awesome\\dist\\line-awesome\\css\\line-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\line-awesome\\dist\\line-awesome\\css\\line-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\vendor\\remixicon\\fonts\\remixicon.css",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\fonts\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\vendor\\remixicon\\fonts\\remixicondf6d.eot",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\fonts\\remixicondf6d.eot"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\vendor\\remixicon\\fonts\\remixicondf6d.svg",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\fonts\\remixicondf6d.svg"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\vendor\\remixicon\\fonts\\remixicondf6d.ttf",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\fonts\\remixicondf6d.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\vendor\\remixicon\\fonts\\remixicondf6d.woff",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\fonts\\remixicondf6d.woff"
+    },
+    {
+      "Id": "C:\\Users\\alp_e\\Desktop\\BitirmeOdev\\DepoStokProgrami\\DepoStokProgrami\\wwwroot\\vendor\\remixicon\\fonts\\remixicondf6d.woff2",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\fonts\\remixicondf6d.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DepoStokProgrami.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DepoStokProgrami.props",
+      "PackagePath": "build\\DepoStokProgrami.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DepoStokProgrami.props",
+      "PackagePath": "buildMultiTargeting\\DepoStokProgrami.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DepoStokProgrami.props",
+      "PackagePath": "buildTransitive\\DepoStokProgrami.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
